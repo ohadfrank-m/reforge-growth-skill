@@ -1,6 +1,6 @@
-# Reforge Growth Skills for Cursor
+# Reforge Growth Skills
 
-Two AI agent skills that apply Reforge product growth methodology inside Cursor. Built for PMs, growth teams, and anyone designing or reviewing product-led growth features.
+Two AI agent skills that apply Reforge product growth methodology inside Cursor / Claude. Built for PMs, growth teams, and anyone designing or reviewing product-led growth features.
 
 ## What's included
 
@@ -33,7 +33,7 @@ Nine templates with case studies (Pinterest, HubSpot, Airbnb, Zoom, Amplitude, E
 
 ## Installation
 
-### Option 1: Install as Cursor skills (recommended)
+### Option 1: Install as Cursor/Claude skills (recommended)
 
 1. Clone this repo:
    ```bash
